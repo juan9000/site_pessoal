@@ -1,0 +1,13 @@
+header{
+    margin-top: 40px;
+    text-align: center;
+}
+header img{
+    width: 300px;
+    border: 10px solid #acacac98;
+
+}
+h1{
+    font-size: 22px;
+    font-weight: bold;
+}
