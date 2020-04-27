@@ -1,13 +1,18 @@
-header{
-    margin-top: 40px;
+.corpo{
+    background: #ffffff;
+    padding: 20px;
     text-align: center;
+    padding-right: 240px;
 }
-header img{
-    width: 300px;
-    border: 10px solid #acacac98;
 
+body img{
+    width: 280px;
+    border: 10px solid #acacac98;
 }
+
 h1{
-    font-size: 22px;
-    font-weight: bold;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    padding-left: 25px;
 }
