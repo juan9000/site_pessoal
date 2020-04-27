@@ -10,7 +10,7 @@ body img{
     border: 10px solid #acacac98;
 }
 
-.texto_principal{
+.box_texto_principal{
     padding-top: 20px;
     display: inline-block;
     vertical-align: top;
@@ -25,7 +25,7 @@ h1{
     font-style: italic;
 }
 
-.box_texto_principal{
+.texto_principal{
     margin-top: 10px;
 }
 
@@ -44,8 +44,7 @@ footer{
     padding: 5px;
     background-color: #686868;
     display: inline-block;
-    border: 1px solid #000000;
-    border-radius: 5px;
+    border: 1px solid #000000 ;
 }
 footer p{
     text-align: center;
