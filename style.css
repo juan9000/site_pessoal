@@ -17,7 +17,6 @@ body img{
     padding-left: 25px;
     font-size: 19px;
     width: 50%;
-    height: 50px;
 }
 
 h1{
@@ -32,4 +31,21 @@ h1{
 
 .texto_principal p{
     padding-top: 8px;
+}
+
+footer{
+    background-color: #949494;
+    margin-top: 200px;
+    padding: 10px;
+}
+
+.ul_fim{
+    margin-left: 70px;
+    padding: 5px;
+    background-color: #686868;
+    display: inline-block;
+}
+footer p{
+    text-align: center;
+    padding-bottom: 10px;
 }
