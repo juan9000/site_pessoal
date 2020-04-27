@@ -44,6 +44,8 @@ footer{
     padding: 5px;
     background-color: #686868;
     display: inline-block;
+    border: 1px solid #000000;
+    border-radius: 5px;
 }
 footer p{
     text-align: center;
