@@ -1,20 +1,25 @@
 .apresentacao{
+    margin: 0 0;
     background-color:#686868;
-    padding: 20px;
     text-align: center;
-    padding-right: 240px;
+    padding: 30px 10%;
+    border: 1px solid black;
 }
 
 body img{
     width: 300px;
     border: 10px solid #acacac98;
 }
+.foto{
+    border: 1px solid black;
+    display: inline-flex;
+}
 
-.box_texto_principal{
+.box_texto_apresentacao{
     padding-top: 20px;
+    margin: 0 20px;
     display: inline-block;
     vertical-align: top;
-    padding-left: 25px;
     font-size: 19px;
     width: 50%;
 }
@@ -25,16 +30,16 @@ h1{
     font-style: italic;
 }
 
-.texto_principal{
+.texto_apresentacao{
     margin-top: 10px;
 }
 
-.texto_principal p{
-    padding-top: 8px;
+.texto_apresentacao p{
+    padding-top: 10px;
 }
 
-.portifolio{
-    padding: 30px 8%;
+.box_portifolio{
+    padding: 30px 10%;
     text-align: left;
     background-color: red;
 }
@@ -43,6 +48,13 @@ h2{
     font-size: 25px;
     font-weight: bold;
     padding-left: 10%;
+}
+.portifolio{
+    font-size: 18px;
+    padding-top: 10px;
+}
+.portifolio h2{
+
 }
 footer{
     background-color: #949494;
